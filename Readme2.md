@@ -6,7 +6,7 @@
 Fully functional FlashCard app, where you can add study cards
 
 ### App Walk-though
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="http://g.recordit.co/E5IsN8LZc5.gif" width=200><br>
 
 ## Required
 - [x] User should see the app icon 
